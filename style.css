@@ -383,6 +383,18 @@ ul {
 }
 
 /*=========2. Menu Area CSS==========*/
+#menu {
+background: linear-gradient(253.52deg, #48D6F2 8.92%, #84FC6A 96.59%);	box-shadow: 0px 2px 15px rgba(164, 164, 164, 0.25);
+border-radius: 50px;
+	color: #fff;
+padding: 10px 30px;
+	font-weight: 700;
+font-size: 18px;
+	text-transform: capitalize;
+  margin-top: 25px;
+display: inline-block;
+}
+
 .main-navigation {
 	width: 100%;
 	background-color: transparent;
@@ -929,7 +941,10 @@ ul.dropdown li a:after {
 	z-index: 1
 }
 
-/*========= 5. Service Area CSS ==========*/
+/*========= 5. Service Area CSS === HINNANGUD=======*/
+.row.hinnangud {
+	padding-top: 125px;
+}
 .services-area {
 	padding: 120px 0 45px 0;
 	background: linear-gradient(to top, #FDFFFD, #F5FFF5, rgba(202, 245, 202, 0.3));
