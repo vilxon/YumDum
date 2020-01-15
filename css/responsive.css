@@ -82,11 +82,11 @@
 		padding: 25px 15px;
 	}
 
-	.portfolio-area {
+/*===	.portfolio-area {
 		border-bottom-left-radius: 73% 20%;
 		border-bottom-right-radius: 50% 20%;
 	}
-
+==*/
 	.home-counter-text {
 		margin-top: 70px
 	}
@@ -195,11 +195,11 @@
 		margin-top: 0
 	}
 
-	.testimonial-area {
+/*	.testimonial-area {
 		border-bottom-left-radius: 50% 10%;
 		border-bottom-right-radius: 50% 10%;
 	}
-
+==*/
 	.testimonial-img img {
 		width: 95%;
 	}
@@ -236,11 +236,11 @@
 		font-size: 30px;
 	}
 
-	.portfolio-area {
+/*	.portfolio-area {
 		border-bottom-left-radius: 73% 15%;
 		border-bottom-right-radius: 50% 10%;
 	}
-
+*/
 	.portfolio-button-area {
 		text-align: left;
 		margin-bottom: 30px
@@ -387,11 +387,11 @@
 		display: none
 	}
 
-	.portfolio-area {
+/*	.portfolio-area {
 		border-bottom-left-radius: 73% 15%;
 		border-bottom-right-radius: 50% 10%;
 	}
-
+*/
 	.portfolio-button-area {
 		text-align: left;
 		margin-bottom: 30px
@@ -419,10 +419,10 @@
 	}
 
 	.testimonial-area {
-		border-bottom-left-radius: 50% 10%;
+/*		border-bottom-left-radius: 50% 10%;
 		border-bottom-right-radius: 50% 10%;
 	}
-
+*/
 	.testimonial-img img {
 		width: 95%;
 	}
